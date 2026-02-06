@@ -1,1 +1,1 @@
-read me 
+To learn the OpenCV for computer visioning 
